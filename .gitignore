@@ -1,0 +1,17 @@
+# Sphinx build (généré automatiquement)
+docs/build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers VTK (trop lourds)
+*.vtu
+*.vtk
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+desktop.ini
