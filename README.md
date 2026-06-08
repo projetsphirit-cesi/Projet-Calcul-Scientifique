@@ -15,11 +15,10 @@ Développé dans le cadre d'un projet académique au CESI, en collaboration avec
 
 ## Installation
 
-Voir le [guide d'installation](docs/source/installation.rst)
-
+Voir le [guide d'installation complet](https://projetsphirit-cesi.github.io/Projet-Calcul-Scientifique/installation.html)
 ## Documentation
 
-La documentation complète est disponible sur [documentation technique](docs/source/index.rst)
+La documentation complète est disponible sur [documentation technique]([docs/source/index.rst](https://projetsphirit-cesi.github.io/Projet-Calcul-Scientifique/index.html))
 
 ## Technologies
 
